@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozzin075&layout=compact&hide_border=true&langs_count=6&title_color=B0E0E6&text_color=B0E0E6&bg_color=0d1117"/>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Leozzin075&color=B0E0E6&bg_color=0d1117&hide_border=true&area=true&text_color=B0E0E6&eme=dark)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Leozzin075&color=B0E0E6&bg_color=0d1117&hide_border=true&area=true&text_color=B0E0E6&theme=gotham)
 
 
 ### Habilidades Principais:
