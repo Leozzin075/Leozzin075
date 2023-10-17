@@ -8,7 +8,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozzin075&layout=compact&hide_border=true&langs_count=6&title_color=B0E0E6&text_color=B0E0E6&bg_color=0d1117"/>
 </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leozzin075&bg_color=B0E0E6color=5157d2&line=5157d2&point=24292e&area=true&hide_border=true)
+##Grafico
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leozzin075&bg_color=B0E0E6color=B0E0E6line=5157d2&point=24292e&area=true&hide_border=true)
 
 
 
