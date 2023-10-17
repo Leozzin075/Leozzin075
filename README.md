@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6&height=180&section=header&text=Leonardo Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=Salve,+Meu+Nome+É+Leonardo+Souza+Tenho+19+anos;Eu+Sou+de+Feira,+Bahia;Eu+Estudo+Desenvolvimento+de+Sistemas+no+Senai;Sou+do+Back+:%29)](https://git.io/typing-svg)
 
@@ -8,7 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozzin075&layout=compact&hide_border=true&langs_count=6&title_color=B0E0E6&text_color=B0E0E6&bg_color=0d1117"/>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Leozzin075&color=B0E0E6&bg_color=0d1117&hide_border=true&area=true&text_color=B0E0E6&theme=gotham)
 
 
 ### Habilidades Principais:
