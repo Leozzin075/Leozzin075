@@ -9,7 +9,7 @@
 </div>
 
 ##Grafico
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leozzin075&bg_color=B0E0E6color=B0E0E6line=5157d2&point=24292e&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leozzin075&bg_color=B0E0E6color=9370DBline=5157d2&point=24292e&area=true&hide_border=true)
 
 
 
