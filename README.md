@@ -1,6 +1,6 @@
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=Salve,+Meu+Nome+É+Leonardo+Souza+Tenho+19+anos;Eu+Sou+de+Feira,+Bahia;Eu+Estudo+Desenvolvimento+de+Sistemas+no+Senai;Sou+do+Back+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=Salve,+Meu+Nome+É+Leonardo+Souza+Tenho+20+anos;Eu+Sou+de+Feira,+Bahia;Eu+Estudo+Desenvolvimento+de+Sistemas+no+Senai;Sou+do+Back+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
